@@ -1,0 +1,1 @@
+[{"uid":"a9e1934ba0745a58","name":"Успешный вход в систему","time":{"start":1779627498313,"stop":1779627501530,"duration":3217},"status":"passed","severity":"critical"},{"uid":"983c82dd0c74b803","name":"Неуспешный вход с неверными данными","time":{"start":1779627504120,"stop":1779627506688,"duration":2568},"status":"passed","severity":"normal"}]
